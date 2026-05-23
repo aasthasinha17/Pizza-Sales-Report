@@ -14,9 +14,6 @@
 **Power BI Pizza Sales Analytics Dashboard:**
 ![Pizza Sales Power Bi](https://github.com/ekaterinakham/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/assets/144201262/291f54ce-f7e7-4279-b25e-52db52494cf7)
 
-**Tableau Pizza Sales Analytics Dashboard:**
-![Pizza Sales Home](https://github.com/ekaterinakham/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/assets/144201262/5391837f-95c0-4842-9a43-73f5517ebc1f)
-![Pizza Sales Best   Worst Sellers](https://github.com/ekaterinakham/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/assets/144201262/11804e37-f69f-46b1-9e4d-54466d61e433)
 
 # **Project Overview**
 
